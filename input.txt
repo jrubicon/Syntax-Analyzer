@@ -1,0 +1,12 @@
+! this is comment for this sample test code the %% is optional to start!
+
+
+
+
+%%
+
+int x=a + b;
+z=c+ d;
+bool =e-f;
+b=g*;
+while (x<z) do e+f whileend ;

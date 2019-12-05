@@ -1,0 +1,9 @@
+! this is comment for this sample test code the %% is optional to start!
+
+
+
+
+
+while (x < b) do a+b whileend;
+int j = g+h;
+j=x-h;
